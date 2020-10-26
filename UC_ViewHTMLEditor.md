@@ -1,4 +1,4 @@
-# Use-Case-Specification: View Admin Window
+# Use-Case-Specification: View HTML Editor
 ## 1. Description
 ## 2. Screenshots
 ![AdminWindow.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/UC_AdminWindow.png)
