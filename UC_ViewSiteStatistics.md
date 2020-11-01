@@ -6,6 +6,7 @@
 ## 3. Activity Diagram
 ![ActivityDiagram.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/ActivityDiagram_ViewSiteStatistics.png)
 ## 4. Feature File
+![ActivityDiagram.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/Narrative_SiteStatistics.png)
 ## 5. Special Requirements
 ## 6. Preconditions
 ## 7. Postconditions
