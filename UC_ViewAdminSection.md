@@ -6,7 +6,7 @@ In this use-case, the user logs in and sees the admin section shown with opportu
 ## 3. Activity Diagram
 ![ActivityDiagram.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/ActivityDiagram_ViewAdminSection.png)
 ## 4. Feature File
-![ActivityDiagram.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/Narrative_HTMLEditor.png)
+![ActivityDiagram.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/Narrative_AdminSection.png)
 ## 5. Special Requirements
 N/A
 ## 6. Preconditions
