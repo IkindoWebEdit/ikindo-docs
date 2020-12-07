@@ -2,7 +2,7 @@
 ## 1. Description
 In this use-case, the user edits the HTML source code of the website and saves his changes with the "save"-Button
 ## 2. Screenshots
-![AdminWindow.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/UC_HTMLSave.png)
+![AdminWindow.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/UC_HTMLEditor.png)
 ## 3. Activity Diagram
 ![ActivityDiagram.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/ActivityDiagram_HTMLSave.png)
 ## 4. Feature File
