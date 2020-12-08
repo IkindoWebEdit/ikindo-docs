@@ -1,6 +1,6 @@
 # Use-Case-Specification: View Graphical Editor 
 ## 1. Description
-In this use-case, the user opens the graphical editor used to edit his website personally.
+In this use-case, the user opens the editor which is used to edit his website via a graphical interface.
 ## 2. Screenshots
 ![AdminWindow.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/UC_GraphicalEditor.png)
 ## 3. Activity Diagram
