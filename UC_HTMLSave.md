@@ -1,4 +1,4 @@
-# Use-Case-Specification: View Admin Section
+# Use-Case-Specification: Save HTML changes
 ## 1. Description
 In this use-case, the user edits the HTML source code of the website and saves his changes with the "save"-Button
 ## 2. Screenshots
@@ -11,6 +11,6 @@ In this use-case, the user edits the HTML source code of the website and saves h
 N/A
 ## 6. Preconditions
  - The user is logged in as an admin
- - The users is in the "View-Html-Editor" Section
+ - The users is in the "View HTML Editor" Section
 ## 7. Postconditions
  - The html source code gets added to the website 
