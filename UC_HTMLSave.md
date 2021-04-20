@@ -14,3 +14,8 @@ N/A
  - The users is in the "View HTML Editor" Section
 ## 7. Postconditions
  - The html source code gets added to the website 
+## 8. Function Points
+### 8.1 Calculation
+![FunctionPoints.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/FP_calc_pics/savedelete.png
+### 8.2 Result
+![FunctionPoints.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/FP_calc_pics/savedeleteResult.png)
