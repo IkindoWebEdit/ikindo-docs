@@ -14,3 +14,8 @@ N/A
  - The user is in the admin section
 ## 7. Postconditions
 N/A
+## 8. Function Points
+### 8.1 Calculation
+![FunctionPointsCalc.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/FP_calc_pics/viewgraphicaleditor.png)
+### 8.2 Result
+![FunctionPointsResult.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/FP_calc_pics/viewgraphicaleditorResult.png)
