@@ -18,4 +18,4 @@ N/A
 ### 8.1 Calculation
 ![ActivityDiagram.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/FP_calc_pics/viewHTMLEditor.png)
 ### 8.2 Result
-![ActivityDiagram.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/FP_calc_pics/viewHTMLEditorResults.png  = 667x117)
+![ActivityDiagram.png](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/FP_calc_pics/viewHTMLEditorResults.png  =667x117)
