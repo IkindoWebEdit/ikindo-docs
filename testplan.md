@@ -118,17 +118,11 @@ Those Test will open a browser instance, pressing buttons, filling out text area
 #### 5.1.1     Function and Database Integrity Testing
 
 |||
-
 |---|---|
-
 |Technique Objective|Every django function gets evaluated correctly|
-
 |Technique|Simple function Tests|
-
 |Required Tools|Selenium|
-
 |Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
-
 |Special Consideration|-|
 
  
@@ -146,17 +140,11 @@ n/a
 #### 5.1.4     User Interface Testing
 
 |||
-
 |---|---|
-
 |Technique Objective|Every input in the website will be elaborated correctly||
-
 |Technique|Integration tests on the rendered UI|
-
 |Required Tools|Selenbium |
-
 |Success Criteria|successful scenarios, all tests will pass, no strange behaviour will occur|
-
 |Special Consideration|-|
 
  
@@ -186,17 +174,11 @@ n/a
 #### 5.1.9     Security and Access Control Testing
 
 |||
-
 |---|---|
-
 |Technique Objective|Different inputs will be checked ||
-
 |Technique|Integration tests on the rendered UI|
-
 |Required Tools|Selenbium |
-
 |Success Criteria|amdin loginj should be accepted, wrong input declined|
-
 |Special Consideration|-|
 
  
@@ -319,11 +301,8 @@ The following base software elements are required in the test environment for th
  
 
 | Software Element Name |  Type and Other Notes                        |
-
 |-----------------------|----------------------------------------------|
-
 | Python 		| > 3.0		                               |
-
 | Selenium              | > 3.0		                               |
 
 
@@ -351,13 +330,9 @@ n/a
 This table shows the team-roles for testing.
 
 |Role|Minimum Resources Recommended(number of full-time roles allocated)|Specific Responsibilities or Comments|
-
 |---|---|---|
-
 |Test Manager|1|Manages the testing.  Responsibilities:  test-planning and coordination |
-
 |Test Designer|1|Defines the technical approach to the test-implementation.  Responsibilities: defining test approach and test automation architecture, verify test techniques|
-
 |Tester|1|Implements and executes the tests. Responsibilities: implementing and executing tests, logging results and analyzing test failures|
 
  
@@ -371,11 +346,8 @@ n/a
  
 
 | Milestone | Planned Start Date | Actual Start Date | Planned End Date | Actual End Date |
-
 |---|---|---|---|---|
-
 | Implemented tests | n/a |  n/a  |  n/a  |  n/a |
-
 | 20% coverage | n/a |  n/a  |  n/a  |  n/a  |
 
  
@@ -385,13 +357,9 @@ n/a
 ## 12.  Risks, Dependencies, Assumptions, and Constraints
 
 | Risk | Mitigation Strategy   | Contingency (Risk is realized) |
-
 |---|---|---|
-
 | Untestable features in <br/>the framework | Cannot be avoided | Try to test it with integration tests |
-
 | Some functionallities are not <br/>covered | Carefully design tests | Add more tests |
-
 | Technical Difficulties for customers | Try to help remote | Try it out on different browsers before deploying |
 
 ## 13. Management Process and Procedures
