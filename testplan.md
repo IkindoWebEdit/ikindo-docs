@@ -54,11 +54,11 @@ This document will only be used internally.
 
 ### 1.5 References
 
-| Reference        |
+| Reference                                                             |
 
-| ------------- |
+| --------------------------------------------------------------------- |
 
-| [Blog](https://ikindowebedit.wordpress.com/) |
+| [Blog](https://ikindowebedit.wordpress.com/)                          |
 
 | [SRS](https://github.com/IkindoWebEdit/ikindo-docs/blob/main/SRS.pdf) |
 
